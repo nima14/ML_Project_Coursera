@@ -2,7 +2,9 @@
 title: "ML_Project"
 author: "Nima Taghidoost"
 date: "3/21/2020"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ### Summary
